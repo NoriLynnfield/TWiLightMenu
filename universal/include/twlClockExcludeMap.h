@@ -10,6 +10,7 @@ static const char twlClockExcludeList[][4] = {
 	"YJB", // LEGO Batman: The Videogame
 	"BLH", // LEGO Harry Potter: Years 1-4
 	"YLJ", // LEGO Indiana Jones: The Original Adventures
+	"BLJ", // LEGO Indiana Jones 2: The Adventure Continues
 	"YLG", // LEGO Star Wars: The Complete Saga
 	"AY9", // Mario & Sonic at the Olympic Games
 	"BZP", // Peppa Pig: Theme Park Fun
